@@ -56,3 +56,51 @@ body{
     padding: 320px 0px 0px 70px;
     width: 45%;
 }
+#lw-mng{
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: 90%;
+    background-position: right;
+    padding-top: 90px;
+    padding-bottom: 160px;
+    /*padding: 0px 50px 90px 50px;
+    border: 2px solid black;*/
+}
+#lw-mng h1{
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.row img{
+    width: 28%;
+    padding: 10px 0px 0px 10px;
+    background-attachment: fixed;
+}
+.f-bg{
+    background-image: url("footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 80%;
+    padding: 0px 0px 350px 0px;
+}
+
+.anchor2{
+    width: 40%;
+    height: 30%;
+    background-color:  #EC4C7A;
+    border-radius: 10px;
+}
+.last-modified{
+    padding-left: 10px;
+    padding-top: 120px;
+    text-align: center;
+}
+.qoute{
+    padding-left: 480px;
+    text-align: center;
+}
+section .anchor2{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    margin-left: 430px;
+}

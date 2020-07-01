@@ -1,0 +1,41 @@
+body{
+    font-family: 'Muli', sans-serif;
+    margin: 0;
+    width: 100%;
+
+}
+#first-sec .half-width{
+    float: left;
+    width: 40%;
+}
+.img1-cntl{
+    width: 480px;
+    height: 520px;
+    padding: 170px 0px 0px 40px;
+}
+#first-sec{
+    background-image: url("header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: bottom;
+    padding: 0px 0px 850px 90px;
+    
+}
+#text-cntl-span{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #EC4C7A;
+}
+.frist-anchor{
+    text-decoration: none;
+    color: white;
+    background-color:  #EC4C7A;
+    font-size: 15px;
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.para1-area-control{
+    padding: 245px 0px 0px 138px;
+    font-size: 35px;
+}
